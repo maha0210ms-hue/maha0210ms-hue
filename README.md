@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋 I'm Mahalakshmi
 
-<!--
-**maha0210ms-hue/maha0210ms-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst | Power BI | SQL | Excel | Python  
+📍 Chennai, India  
 
-Here are some ideas to get you started:
+## About Me
+- 4+ years experience in Data Operations & Analytics
+- Strong in data cleaning, visualization and reporting
+- Interested in Business Intelligence and Dashboard Development
+- Currently preparing for Data Analyst roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Power BI (DAX, Power Query)
+- Advanced Excel
+- Data Visualization
+
+## Projects 
+- 📈 E-commerce Performance Dashboard  
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/mahalakshmi-s-192a46121/
+- Email: mahalakh_2@yahoo.com
