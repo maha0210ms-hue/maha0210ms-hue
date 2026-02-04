@@ -15,7 +15,7 @@
 - Data Visualization
 
 ## Projects 
-- 📈 E-commerce Performance Dashboard  
+- 📈 Snitch Fashion Sales Analysis  
 
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/mahalakshmi-s-192a46121/
